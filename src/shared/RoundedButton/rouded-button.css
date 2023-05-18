@@ -1,0 +1,8 @@
+.rouded-button{
+    color: white;
+    background: linear-gradient(to top right, purple, red);
+    border: none;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
